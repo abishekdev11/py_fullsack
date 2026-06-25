@@ -1,4 +1,4 @@
-#This is an commercial E.com website for ordering groceries from local shops;
+#This is an E.com website designed for ordering groceries from local shops;
 
 #This is a python full stack project;
 
