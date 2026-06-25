@@ -16,7 +16,7 @@ import Deliverydashboard from './Deliverydashboard';
 import Orderallocate from './Orderallocate';
 import Cart from "./Cart";
 import Accicon from "./Accicon";
-import Websocket from './Websocket';
+
 
 
 function App() {
@@ -43,7 +43,7 @@ function App() {
 <Route path='/Orderallocate' element={<Orderallocate/>}/>
 <Route path='/Cart' element={<Cart/>}/>
 <Route path='/Accicon' element={<Accicon/>}/>
-<Route path='/ws' element={<Websocket/>}/>
+
 
 </Routes>
 </BrowserRouter>
