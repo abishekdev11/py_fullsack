@@ -2,4 +2,4 @@
 
 this is to check
 
-his is working properly
+this is working properly
